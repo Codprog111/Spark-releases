@@ -4,6 +4,10 @@ A modern circuit simulator for Windows. Draw a circuit, run it, and see the volt
 currents. Spark also has a lab bench (signal generator, power supply, scope), design
 calculators, and an Academy of hands-on lessons for learning electronics.
 
+[![Watch the 20-second Spark video](media/spark-launch.jpg)](media/spark-launch.mp4)
+
+*Click the picture to watch the 20-second video.*
+
 Spark is **free to use** and **closed source**. This repository holds only the releases; the
 source code is not public.
 
