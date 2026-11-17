@@ -1,8 +1,12 @@
 # Spark
 
 A modern circuit simulator for Windows. Draw a circuit, run it, and see the voltages and
-currents. Spark also has a lab bench (signal generator, power supply, scope), design
-calculators, and an Academy of hands-on lessons for learning electronics.
+currents. Spark also has a lab bench (signal generator, power supply, scope, Bode analyser),
+design calculators, and an Academy of hands-on lessons for learning electronics.
+
+From 0.5.3, the **Breadboard** button lays your circuit out on a breadboard with a
+step-by-step build list and a shopping list of real parts (2N3904, LM358, NE555…), and
+*Check my real board* helps find the mistake when your built circuit doesn't work.
 
 [![Watch the 20-second Spark video](media/spark-launch.jpg)](https://codprog111.github.io/Spark-releases/media/spark-launch.mp4)
 
