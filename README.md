@@ -38,8 +38,11 @@ The hash should match the line for that file.
 
 ## Problems and ideas
 
-Open an [issue](../../issues). Please include the Spark version, what you did, and the circuit
-file (`.spk` or `.cir`) if you can.
+The easiest way: click **Report issue** in the bottom-right corner of Spark (from 0.5.1). It fills in
+the version, the messages and your circuit for you, and opens a new issue here.
+
+Or open an [issue](../../issues) yourself. Please include the Spark version, what you did, and the
+circuit file (`.spk` or `.cir`) if you can.
 
 ## License
 
