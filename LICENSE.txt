@@ -1,0 +1,55 @@
+SPARK END-USER LICENSE AGREEMENT
+
+Copyright (c) 2026 Codprog111. All rights reserved.
+
+Spark ("the Software") is free to download and use, but it is not open source. By installing or
+using the Software you agree to these terms. If you do not agree, do not install or use it.
+
+1. WHAT YOU MAY DO
+   You may install and use the Software, free of charge, on any number of computers you own or
+   control, for any lawful purpose, personal or commercial. Circuits, drawings, netlists,
+   waveforms and other results you create with the Software are yours.
+
+2. WHAT YOU MAY NOT DO
+   You may not, and may not help anyone else to:
+   a. sell, rent, lease, sublicense or otherwise charge for the Software;
+   b. redistribute the Software or offer it for download anywhere other than the official
+      release page, https://github.com/Codprog111/Spark-releases;
+   c. modify the Software or create derivative works of it;
+   d. reverse engineer, decompile or disassemble the Software, except to the extent that
+      applicable law expressly permits this despite this restriction;
+   e. remove or alter any copyright notice, license notice or this agreement.
+
+3. OWNERSHIP
+   The Software is licensed, not sold. Codprog111 keeps all rights, title and interest in the
+   Software, including all intellectual property rights. Rights not expressly granted here are
+   reserved.
+
+4. THIRD-PARTY COMPONENTS
+   The Software includes open-source components. They are licensed to you under their own
+   licenses, listed with their full texts in THIRD-PARTY-LICENSES.html, which ships with the
+   Software. Nothing in this agreement limits your rights under those licenses.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE AND NON-INFRINGEMENT.
+   Spark is a circuit simulator. Its results are approximations, may be wrong, and must not be
+   relied on as the only check of a design. Before building, powering or selling any hardware,
+   verify the design yourself by independent means, and follow the safety practices that apply
+   to it, especially for mains voltage, high current, batteries or anything safety-critical.
+
+6. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL CODPROG111 BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING DAMAGE TO EQUIPMENT, PROPERTY OR DATA, PERSONAL
+   INJURY, OR LOST PROFITS, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE, ITS RESULTS, OR THE USE OF OR OTHER DEALINGS IN
+   THE SOFTWARE.
+
+7. TERMINATION
+   This license ends automatically if you break any of its terms. You must then stop using the
+   Software and delete all copies of it.
+
+8. CHANGES
+   Later versions of the Software may come with a different agreement. The agreement that ships
+   with a version applies to that version.
