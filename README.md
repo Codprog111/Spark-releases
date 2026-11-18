@@ -8,9 +8,9 @@ From 0.5.3, the **Breadboard** button lays your circuit out on a breadboard with
 step-by-step build list and a shopping list of real parts (2N3904, LM358, NE555…), and
 *Check my real board* helps find the mistake when your built circuit doesn't work.
 
-[![Watch the 20-second Spark video](media/spark-launch.jpg)](https://codprog111.github.io/Spark-releases/media/spark-launch.mp4)
+[![Watch the 37-second Spark video](media/spark-launch.jpg)](https://codprog111.github.io/Spark-releases/media/spark-launch.mp4)
 
-*Click the picture to watch the 20-second video.*
+*Click the picture to watch the 37-second video.*
 
 Spark is **free to use** and **closed source**. This repository holds only the releases; the
 source code is not public.
